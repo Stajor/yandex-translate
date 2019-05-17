@@ -1,4 +1,4 @@
-# PHP Perspective Comment Analyzer API
+# PHP Yandex Translate Api
 
 ![Minimal PHP version](https://img.shields.io/packagist/php-v/stajor/perspectiveapi.svg)
 
